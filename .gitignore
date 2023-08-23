@@ -3,3 +3,4 @@ venv
 data
 .vscode
 __pycache__
+penguin_venv/
